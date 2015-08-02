@@ -1,2 +1,2 @@
 # MyAndroid
-MyAndroid MyAndroid
+MyAndroid
